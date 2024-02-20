@@ -7,4 +7,5 @@ Note: In testing
    Endpoint :
      http://localhost:8080/service
 4. Sample Response
-   Success response and check console for the thread and sample futures output
+   - Success
+   - check console for the thread and sample futures output
